@@ -11,6 +11,19 @@
     position: relative;
     overflow: hidden;
 }
+/* Add these styles for the logo container */
+.logo-container {
+    position: absolute;
+    top: 20px; /* Adjust this value as needed */
+    right: 20px; /* Adjust this value as needed */
+}
+
+/* Adjust the logo size if needed */
+.logo-container img {
+    width: 100px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+}
+
 nav{
     width: 90%;
     margin: auto;
@@ -132,6 +145,16 @@ nav ul li a:hover::after{
     right: 5%;
     bottom: 5%;
 }
+.social-links::before{
+    content: "";
+    width: 80%;
+    height: 3px;
+    position: absolute;
+    top: 42%;
+    left: -145px;
+    background-color: #494234;
+
+}
 .social-links i{
     margin-left: 10px;
     width: 35px;
@@ -141,4 +164,8 @@ nav ul li a:hover::after{
     display: inline-flex;
     align-items: center;
     justify-content: center;
+    transition: 0.5s;
+}
+.social-links i:hover{
+    transform: translateY(-5px);
 }
