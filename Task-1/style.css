@@ -63,6 +63,7 @@ nav ul li a:hover::after{
 }
 .image-pista img{
     width: 100%;
+    height: 20%;
 }
 .main-content h1{
     font-size: 60px;
@@ -84,6 +85,60 @@ nav ul li a:hover::after{
     background-color: #494234;
     color: white;
     cursor: pointer;
-
-
+}
+.swiper{
+   width: 20rem;
+}
+.swiper-slide{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.right{
+    position: absolute;
+    right: 8%;
+    bottom: 20%;
+}
+.box{
+    display: flex;
+    align-items: center; 
+}
+.right .box .image img{
+    width: 70%;
+}
+.image{
+    margin-top: 2rem;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    box-shadow: -5px 5px 17px rgba(0,0,0,0.3);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 0.5s;
+}
+.image:hover{
+    background-color: rgba(73,66,52,0.7);
+}
+.box .inner-box{
+    margin: 1.5rem 0 0 1rem;
+}
+.box .inner-box p{
+    font-size: 14px;
+    font-weight: 500;
+}
+.social-links{
+    position: absolute;
+    right: 5%;
+    bottom: 5%;
+}
+.social-links i{
+    margin-left: 10px;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background-color: #93C572;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
 }
