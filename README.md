@@ -12,7 +12,7 @@ Description: This task involved creating a landing page for  Pistachio.
 
 ### Instructions
 1. Clone this repository to your local machine.
-2. Open the `landing-page/index.html` file in a web browser to view the landing page.
+2. Open the `Task-1/index.html` file in a web browser to view the landing page.
 
 ## Task 2: To-Do List
 
@@ -31,7 +31,7 @@ Description: In this task, I implemented a to-do list application.
 
 ### Instructions
 1. Clone this repository to your local machine.
-2. Open the `to-do-list/index.html` file in a web browser to use the to-do list application.
+2. Open the `Task-2/index.html` file in a web browser to use the to-do list application.
 
 ## Getting Started
 
@@ -39,6 +39,5 @@ To get started with this project, follow these steps:
 
 1. Clone this repository to your local machine using the following command:
 
-```bash
-git clone https://github.com/your-username/octanet-internship.git
+
 
