@@ -3,7 +3,7 @@ Welcome to my Octanet internship project repository! This repository contains th
 
 ## Task 1: Landing Page
 
-Description: This task involved creating a landing page for Octanet's website.
+Description: This task involved creating a landing page for  Pistachio.
 
 ### Technologies Used
 - HTML
