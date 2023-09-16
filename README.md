@@ -1,5 +1,5 @@
 # OCTANET_SEPTEMBER
-Welcome to my Octanet internship project repository! This repository contains the code for the tasks I have completed during my internship.
+Welcome to my Octanet internship Tasks repository! This repository contains the code for the tasks I have completed during my internship.
 
 ## Task 1: Landing Page
 
